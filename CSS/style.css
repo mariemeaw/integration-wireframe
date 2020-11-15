@@ -1,5 +1,6 @@
 header {
     background-color: #F4F7FF;
+    float: right;
 }
 .login {
     background-color: #DAE4FF;
@@ -43,4 +44,9 @@ h4 {
     font-family: 'avenir';
     font-weight: bold;
     color: #424A71;
+}
+p {
+    font-size: 15px;
+    font-family: 'avenir';
+    color: #8584C5;
 }
