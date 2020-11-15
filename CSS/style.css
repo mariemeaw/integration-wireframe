@@ -1,7 +1,6 @@
 header {
     background-color: #F4F7FF;
 }
-
 .login {
     background-color: #DAE4FF;
 }
@@ -16,4 +15,32 @@ header {
 }
 .boutique {
     background-color: #DAE4FF;
+}
+footer {
+    background-color: #FFFFFF;
+}
+
+h1 {
+    font-size: 64px;
+    font-family: 'avenir';
+    font-weight: bold;
+    color: #8584C5;
+}
+h2 {
+    font-size: 43px;
+    font-family: 'avenir';
+    font-weight: bold;
+    color: #A09EEB;
+}
+h3 {
+    font-size: 36px;
+    font-family: 'avenir';
+    font-weight: bold;
+    color: #A09EEB;
+}
+h4 {
+    font-size: 24px;
+    font-family: 'avenir';
+    font-weight: bold;
+    color: #424A71;
 }
